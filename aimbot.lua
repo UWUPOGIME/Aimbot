@@ -871,7 +871,7 @@ do
         })
     else
         Discord:AddParagraph({
-            Title = "https://discord.gg/5Py9yzrFek",
+            Title = "https://ttwizz.su/pix",
             Content = "Paste it into the Browser Tab"
         })
     end
