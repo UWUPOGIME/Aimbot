@@ -2,15 +2,16 @@
     Open Aimbot
     Universal Open Source Aimbot
     Release 1.7.4
-    Donny, Convo, Scott, Anomic, Reaper
-    Donny, Convo, Scott, Anomic, Reaper
+    ttwizz.su/pix
+    ttwizz.su/OpenAimbotV3rm
 
-    Donny, Convo, Scott, Anomic, Reaper
+    Author: ttwiz_z (ttwizz)
     License: MIT
+    GitHub: https://github.com/ttwizz/Open-Aimbot
 
-    Issues: Donny, Convo, Scott, Anomic, Reaper
-    Pull requests: Donny, Convo, Scott, Anomic, Reaper
-    Discussions: Donny, Convo, Scott, Anomic, Reaper
+    Issues: https://github.com/ttwizz/Open-Aimbot/issues
+    Pull requests: https://github.com/ttwizz/Open-Aimbot/pulls
+    Discussions: https://github.com/ttwizz/Open-Aimbot/discussions
 ]]
 
 
